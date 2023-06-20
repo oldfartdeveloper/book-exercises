@@ -1,6 +1,6 @@
 # README
 
-This is the exercise in Chapter in *the Book*.
+This is the exercise in **Chapter 2** in *the Book*.
 
 ## What I discovered here:
 
