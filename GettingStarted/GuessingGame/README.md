@@ -15,7 +15,7 @@ Finally, `Cargo` can be incredibly useful.  Its way of generating package docs i
 
 Here's an example output:
 
-![cargo doc open example](/images/cargo_doc_open.jpg)
+![cargo doc open example](./images/cargo_doc_open.jpg)
 
 ## Summary
 
